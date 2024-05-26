@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+ @* <html> 
+<body>
+    <form action="verify" method="post">
+        <label for="email">Nom d'utilisateur:</label>
+        <input type="text" id="email" name="email" required>
+        <br />
+        <br />
+
+        <label for="password">Mot de passe:</label>
+        <input type="password" id="password" name="password" required>
+        <br />
+        <br />
+        <button type="submit">Se Connecter</button>
+    </form>
+</body>
+</html> *@
+@model Admin.Models.Entities.Loginn;
+
+<form action="loginAdmin" method="post">
+    <div class="col">
+        <input type="email" class="form-control" placeholder="email" aria-label="email" asp-for="email">
+    </div>
+    <br />
+
+    <div class="col">
+        <input type="password" class="form-control" placeholder="password" aria-label="Motpasse" asp-for="Motpasse" >
+    </div>
+
+
+ <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+  </div>
+    <button type="submit" class="btn btn-primary" asp-controller="ProductController1" asp-action="loginAdmin">Submit</button>
+
+</form>
+

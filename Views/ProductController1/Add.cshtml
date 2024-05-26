@@ -1,0 +1,82 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Admin.Models.AddProductViewModel
+
+<h1>AJOUTER UN PRODUIT </h1>
+<form method="post" action="Add" class="mt-5" enctype="multipart/form-data">
+    @* <input type="hidden" asp-for="IdCategory"> *@
+  @*      <div class="mb-3">
+    <label for="" class="form-label">Id </label>
+    <input type="number" class="form-control" asp-for="I">
+    </div>  *@
+    <div  class="container">
+        <div class="mb-3">
+        <label for="" class="form-label">Name </label>
+        <input type="text" class="form-control" asp-for="Name">
+            <span asp-validation-for="Name" name="Name" class="text-danger"></span>
+    </div>
+
+
+    <div class="mb-3">
+        <label for="" class="form-label">description</label>
+            <input type="text" name="description" class="form-control" asp-for="description">
+            <span asp-validation-for="description" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label  class="form-label">categorie </label>
+       @*   <input type="text" class="form-control" asp-for="IdCategory">  *@
+         
+
+             <select asp-for="IdCategory" class="form-control" asp-items=" ViewBag.categorie">
+                <option > --select categorie--</option>
+            </select> 
+      
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">prix </label>
+        <input type="Number" name="prix" class="form-control" asp-for="prix" >
+            <span asp-validation-for="prix" class="text-danger"></span>
+           
+    </div>
+
+        <div class="mb-3">
+            <label for="" class="form-label">Image File</label>
+            <input type="file" class="form-control" name="posterImage"  asp-for="imagefille">
+            <span asp-validation-for="imagefille" class="text-danger"></span>
+        </div>
+
+
+
+   @*  <div>
+            <input type="submit" class="btn btn-primary" value="Add" action="List" />
+            <a asp-action="List"  class="btn btn-success" action="List">back to list </a>
+           
+        </div>
+ *@
+
+    <div class="row mb-3">
+        <div class="offset-sm-4" d-grid>
+                <button type="submit" class="btn btn-primary" asp-action="Add" asp-controller="ProductController1">submit</button>
+            
+        </div>
+        <br />
+        <br />
+
+
+        <div class="offset-sm-4" d-grid>
+                <a class="btn btn-outline-primary" asp-controller="ProductCotnroller1" asp-action="List" role="button">retour a la liste</a>
+        </div>
+    </div> 
+    </div>
+
+
+    @* <button type="submit" class="btn btn-primary">Submit</button> *@
+</form>
+
+
+
+    </div>
+   

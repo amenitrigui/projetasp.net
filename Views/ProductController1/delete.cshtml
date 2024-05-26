@@ -1,0 +1,64 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Admin.Models.Entities.Product
+@*  @model Admin.Models.Entities.Categorie
+
+@* @model List<Admin.Models.Entities.Product> *@
+<h1>Delete  UN PRODUIT </h1>
+<hr />
+<h1> <strong> Are you sure you want to delete ?</strong></h1>
+@if (Model == null)
+{
+    <p>il n'ya pas de produits'  </p>
+}
+else
+{
+    <form method="post" action="Delete" class="mt-5">
+        <input type="hidden" asp-for="Id">
+        <div class="container">
+       
+
+        <div class="mb-3">
+            <label for="" class="form-label">Name </label>
+            <input type="text" class="form-control" readonly asp-for="Name">
+        </div>
+
+
+        <div class="mb-3">
+            <label for="" class="form-label">description</label>
+            <input type="text" class="form-control" readonly asp-for="description">
+
+        </div>
+        <div class="mb-3">
+            <label class="form-label">categorie </label>
+            @*    <input type="text" class="form-control" asp-for="IdCategory"> *@
+
+            <select asp-for="IdCategory" class="form-control" asp-items=" ViewBag.categorie" disabled>
+                <option> --select categorie--</option>
+
+
+            </select>
+
+        </div>
+        <div class="mb-3">
+            <label for="" class="form-label">prix </label>
+            <input type="Number" class="form-control" readonly asp-for="prix">
+        </div>
+            <div class="mb-3">
+                <label for="" class="form-label">Image File </label>
+                <input type="text" class="form-control" readonly asp-for="imagefile">
+            </div> 
+           
+
+
+        <div>
+
+            <input type="submit" value="Delete" asp-action="Delete" asp-controller="ProductController1" class="btn btn-outline-danger">
+        @* <button type="submit" class="btn btn-danger" asp-action="Delete" asp-controller="ProductController1">delete</button> *@
+        </div>
+        </div>
+    </form>
+}

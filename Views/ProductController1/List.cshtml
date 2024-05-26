@@ -1,0 +1,231 @@
+﻿@model List<Admin.Models.Entities.Product>
+
+
+<div style="text-align: center;">
+    <a class="navbar-brand">
+        <h1 class="text-primary display-6">La liste des produits</h1>
+    </a>
+</div>
+
+
+<div class="row mb-10">
+    <div class="col">
+
+
+       <a class='btn btn-outline-warning' asp-controller="ProductController1" asp-action="Add">Ajouter un produit</a>
+
+    </div>
+
+
+ 
+    <br />
+    <br />
+    <br />
+</div>
+@* <form class="d-flex" action="Recherche" method="post" id="rechercheForm"> 
+    <button class="form-control me-sm-2"  placeholder="Search" type="text" name="searchTxt" id="searchTxt" ></button>
+   
+ </form> 
+    *@
+@* <form class="d-flex">
+    <input class="form-control me-sm-2" type="search" placeholder="Search">
+    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+</form> *@
+
+
+
+ <form action="Recherche" method="post" id="rechercheForm">
+    <div>  <input class="form-control me-2" aria-label="Search" type="text" name="searchTxt" id="searchTxt" placeholder="search" oninput="recherche()" />     <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button></div>
+
+     @foreach (var etudiant in Model)
+    {
+      @*   <div class="div"> <a href="ProductController1/View/@etudiant.Id" class="a" id="results"> </a> </div> *@
+
+    } 
+    
+</form> 
+  
+
+
+
+
+
+
+ <table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>prix</th>
+          
+            <th>categorie</th>
+            <th>image  </th>
+            <th> Action</th>
+  </tr>
+    </thead>
+    <script>
+    function recherche() { // Récupérer le texte de recherche
+        var searchTxt = $('#searchTxt').val(); // Effectuer la requête AJAX 
+        $.ajax({ url: '/Etudiant/Recherche', 
+        type: 'GET',
+        data: { searchTxt: searchTxt }, 
+        success: function (data) { // Afficher les résultats dans la div 
+            $('#results').empty(); 
+            for (var i = 0; i < data.length; i++) 
+            { $('#results').append(<p>' + data[i].name + '</p>'); // $('#results').append('
+    <button onclick="recupere()">' + data[i].name + '</button>'); } } // #searchTxt = #('#result'); }); }
+    </script>
+
+   
+    <tbody>
+      @foreach(var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.description</td>
+                <td>@product.prix  D</td>
+               
+                 <td>@product.IdCategory</td>  
+             @*      <td>@product.Categories.designation</td>  *@
+                @*  <td>@product.Categories</td> *@
+              @*   <td><img src="@Url.Action("myaction","ProductController1",new {path = ViewBag.path})"/></td> *@
+
+            
+                <td><img src="/Images/@product.imagefile" width="50px" /></td>
+
+                <div>
+                   <td>
+                 <a class="btn btn-outline-primary"  asp-controller="ProductController1" asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                    <a class="btn btn-outline-danger" asp-controller="ProductController1" asp-action="delete" asp-route-id="@product.Id">Delete</a>
+                </td>
+                </div>
+              
+
+            </tr>
+        }
+
+
+</tbody>
+
+
+
+</table> 
+
+
+@* <div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-info panel-shadow">
+            <div class="panel-heading">
+                <h3>
+                    <img class="img-circle img-thumbnail" src="https://bootdey.com/img/Content/user_3.jpg">
+                  
+                </h3> 
+            </div>
+            <div class="panel-body">
+                 <div class="table-responsive"> 
+                    <table class="table"> 
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Description</th>
+                                <th>Categorie</th>
+                                <th>Prix</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                @foreach (var product in Model)
+                                {
+
+                                <td> <strong>@product.Id</strong> <img src="https://www.bootdey.com/image/400x200/FFB6C1/000000" class="img-cart" width="30%" /></td>
+
+                                <td>
+                                    <form >
+                                     
+                              @*       <td><strong>@product.Id</strong></td>  *@
+                            @*     <td><strong>@product.Name</strong>     </td>
+                                    <td><strong>@product.description</strong></td>
+                                    <td><strong>@product.categorie</strong></td>
+                                    <td><strong>@product.prix</strong></td>
+                                    </form>
+                                </td>
+                                }
+                            
+                            </tr> *@
+
+@* 
+                             <tr>
+                                @foreach (var product in Model)
+                                {
+
+                                      <td><img src="https://www.bootdey.com/image/400x200/FFB6C1/000000" class="img-cart"></td> 
+                                    <td><strong>@product.Name</strong></td>
+                                    <td>
+                                        <form class="form-inline">
+                                            <input class="form-control" type="text" value="1">
+                                            <button rel="tooltip" class="btn btn-default"><i class="fa fa-pencil"></i></button>
+                                            <a href="#" class="btn btn-primary"><i class="fa fa-trash-o"></i></a>
+                                        </form>
+                                    </td>
+                                }
+
+                            </tr>
+                            <tr>
+                                @foreach (var product in Model)
+                                {
+
+                                    @*   <td><img src="https://www.bootdey.com/image/400x200/FFB6C1/000000" class="img-cart"></td> *@
+                                  @*   <td><strong>@product.description</strong></td>
+                                    <td>
+                                        <form class="form-inline">
+                                            <input class="form-control" type="text" value="1">
+                                            <button rel="tooltip" class="btn btn-default"><i class="fa fa-pencil"></i></button>
+                                            <a href="#" class="btn btn-primary"><i class="fa fa-trash-o"></i></a>
+                                        </form>
+                                    </td>
+                                }
+
+                            </tr>
+                           @foreach (var product in Model)
+                            {
+                            <tr>
+                             @*    <td><img src="https://www.bootdey.com/image/400x200/87CEFA/000000" class="img-cart"></td>*@
+                               @*  <td><strong>@product.Name</strong></td>
+                                <td>
+                                    <form class="form-inline">
+                                        <input class="form-control" type="text" value="2">
+                                        <button class="btn btn-default"><i class="fa fa-pencil"></i></button>
+                                        <a href="#" class="btn btn-primary" rel="tooltip"><i class="fa fa-trash-o"></i></a>
+                                    </form>
+                                </td>
+                            
+                            </tr>
+                            }
+          @*                    
+                        </tbody>
+                    </table>
+                </div> 
+            </div>
+        </div>
+       <a href="#" class="btn btn-success"><span class="glyphicon glyphicon-arrow-left"></span>&nbsp;Continue Shopping</a>
+        <a href="#" class="btn btn-primary pull-right">Next<span class="glyphicon glyphicon-chevron-right"></span></a> 
+    </div>
+</div> 
+ *@
+<div class="progress">
+    <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+
+
+
+
+ 
+
+
+
+
+   

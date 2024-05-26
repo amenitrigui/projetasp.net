@@ -1,0 +1,2605 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Admin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Admin.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\086077c7-e384-4590-bc4d-980f3ebe77f8_fer.jpg",
+      "PackagePath": "staticwebassets\\Images\\086077c7-e384-4590-bc4d-980f3ebe77f8_fer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\2a6005d1-c981-4200-a6ac-f8c41fdd3109_LAVE-LINGE-SAMSUNG-8-KG-BLANC-INVERTER-WW80TA046TE2-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2a6005d1-c981-4200-a6ac-f8c41fdd3109_LAVE-LINGE-SAMSUNG-8-KG-BLANC-INVERTER-WW80TA046TE2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\2fbee8f3-5414-46a7-a0e9-e19103fdbae0_dd437062-5e2c-4a59-9899-ad4f4146e53c_aspirateur.jpg",
+      "PackagePath": "staticwebassets\\Images\\2fbee8f3-5414-46a7-a0e9-e19103fdbae0_dd437062-5e2c-4a59-9899-ad4f4146e53c_aspirateur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\9ca341d9-10b9-458b-aaa8-de4521d3066b_MOUSTIQUAIRE.jpg",
+      "PackagePath": "staticwebassets\\Images\\9ca341d9-10b9-458b-aaa8-de4521d3066b_MOUSTIQUAIRE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\a482dabb-78ab-4398-9e9c-457147013b59_e528d38f-436b-4ef5-ba3f-52dd9f7e0c68_electromenager.jpg",
+      "PackagePath": "staticwebassets\\Images\\a482dabb-78ab-4398-9e9c-457147013b59_e528d38f-436b-4ef5-ba3f-52dd9f7e0c68_electromenager.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\absurd2.png",
+      "PackagePath": "staticwebassets\\Images\\absurd2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\admin.png",
+      "PackagePath": "staticwebassets\\Images\\admin.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page.png",
+      "PackagePath": "staticwebassets\\Images\\app-page.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\buttons\\app-store.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\buttons\\app-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\buttons\\google-play.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\buttons\\google-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\devices\\2-devices-left.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\devices\\2-devices-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\devices\\2-devices.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\devices\\2-devices.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\devices\\3-devices.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\devices\\3-devices.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\devices\\laptop.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\devices\\laptop.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\devices\\phone-full.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\devices\\phone-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\green-400-avatar.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\green-400-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\green-400-horizontal.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\green-400-horizontal.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\green-400-square.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\green-400-square.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\green-400-vertical.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\green-400-vertical.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\map.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\map1.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\map1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\phone-full.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\phone-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\images\\quote.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\images\\quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\amazon.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\amazon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\dropbox.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\dropbox.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\dropbox.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\dropbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\netflix.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\netflix.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\netflix.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\netflix.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\plainb-logo-white.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\plainb-logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\plainb-logo.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\plainb-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\slack.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\slack.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\spotify.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\spotify.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\spotify.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\stripe.png",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\stripe.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\logos\\stripe.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\logos\\stripe.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\socials\\facebook-light.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\socials\\facebook-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\socials\\facebook.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\socials\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\socials\\github-light.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\socials\\github-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\socials\\github.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\socials\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\socials\\instagram-light.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\socials\\instagram-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\socials\\instagram.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\socials\\instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\socials\\linkedin-light.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\socials\\linkedin-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\socials\\linkedin.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\socials\\linkedin.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\socials\\twitter-light.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\socials\\twitter-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\app-page\\socials\\twitter.svg",
+      "PackagePath": "staticwebassets\\Images\\app-page\\socials\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\b2ac98c3-5fa3-40f9-802d-d1643e7f74fc_MOBILE-PHONE-HUAWEI-NOVA-9-NAM-LX9-1-300x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\b2ac98c3-5fa3-40f9-802d-d1643e7f74fc_MOBILE-PHONE-HUAWEI-NOVA-9-NAM-LX9-1-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\band.png",
+      "PackagePath": "staticwebassets\\Images\\band.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\blog.png",
+      "PackagePath": "staticwebassets\\Images\\blog.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\blog2.png",
+      "PackagePath": "staticwebassets\\Images\\blog2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\bulma.png",
+      "PackagePath": "staticwebassets\\Images\\bulma.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\c569fb5e-dd42-4cde-84fa-bcf8d11bdbf0_P1020329.JPG",
+      "PackagePath": "staticwebassets\\Images\\c569fb5e-dd42-4cde-84fa-bcf8d11bdbf0_P1020329.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\cards.png",
+      "PackagePath": "staticwebassets\\Images\\cards.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\cheatsheet.png",
+      "PackagePath": "staticwebassets\\Images\\cheatsheet.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\contact.png",
+      "PackagePath": "staticwebassets\\Images\\contact.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\cover.png",
+      "PackagePath": "staticwebassets\\Images\\cover.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\d17efe19-902f-456f-a4be-2e5c218940d7_ASPIRATEUR-HAPPER-1400W-TC-850.jpg",
+      "PackagePath": "staticwebassets\\Images\\d17efe19-902f-456f-a4be-2e5c218940d7_ASPIRATEUR-HAPPER-1400W-TC-850.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\dd437062-5e2c-4a59-9899-ad4f4146e53c_aspirateur.jpg",
+      "PackagePath": "staticwebassets\\Images\\dd437062-5e2c-4a59-9899-ad4f4146e53c_aspirateur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\documentation.jpg",
+      "PackagePath": "staticwebassets\\Images\\documentation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\edcc887b-26c7-43ee-883a-43d8453fa9e6_electromenager.jpg",
+      "PackagePath": "staticwebassets\\Images\\edcc887b-26c7-43ee-883a-43d8453fa9e6_electromenager.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\fav_icon.png",
+      "PackagePath": "staticwebassets\\Images\\fav_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\favicon.png",
+      "PackagePath": "staticwebassets\\Images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\fea96174-2d18-4528-b9c6-7cd4a14a7c32_friteuse-fry-plus-palson-pals-30547-3-litres-inox-aab.jpg",
+      "PackagePath": "staticwebassets\\Images\\fea96174-2d18-4528-b9c6-7cd4a14a7c32_friteuse-fry-plus-palson-pals-30547-3-litres-inox-aab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\first-post.png",
+      "PackagePath": "staticwebassets\\Images\\first-post.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\forum.png",
+      "PackagePath": "staticwebassets\\Images\\forum.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\ghost-blog.png",
+      "PackagePath": "staticwebassets\\Images\\ghost-blog.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\hello-parallax.png",
+      "PackagePath": "staticwebassets\\Images\\hello-parallax.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\hero.png",
+      "PackagePath": "staticwebassets\\Images\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\inbox.png",
+      "PackagePath": "staticwebassets\\Images\\inbox.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\instaalbum.png",
+      "PackagePath": "staticwebassets\\Images\\instaalbum.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\kanban.png",
+      "PackagePath": "staticwebassets\\Images\\kanban.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\kanban2.png",
+      "PackagePath": "staticwebassets\\Images\\kanban2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\landing.png",
+      "PackagePath": "staticwebassets\\Images\\landing.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\login.png",
+      "PackagePath": "staticwebassets\\Images\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\modalcards.png",
+      "PackagePath": "staticwebassets\\Images\\modalcards.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\neumorphic-login.png",
+      "PackagePath": "staticwebassets\\Images\\neumorphic-login.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\personal.png",
+      "PackagePath": "staticwebassets\\Images\\personal.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\signup.png",
+      "PackagePath": "staticwebassets\\Images\\signup.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\Images\\undraw_Camera_re_cnp4.svg",
+      "PackagePath": "staticwebassets\\Images\\undraw_Camera_re_cnp4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\aside.css",
+      "PackagePath": "staticwebassets\\css\\aside.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\blog.css",
+      "PackagePath": "staticwebassets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\bulma-divider.min.css",
+      "PackagePath": "staticwebassets\\css\\bulma-divider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\cards.css",
+      "PackagePath": "staticwebassets\\css\\cards.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\cheatsheet.css",
+      "PackagePath": "staticwebassets\\css\\cheatsheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\documentation.css",
+      "PackagePath": "staticwebassets\\css\\documentation.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\forum.css",
+      "PackagePath": "staticwebassets\\css\\forum.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\ghost-blog.css",
+      "PackagePath": "staticwebassets\\css\\ghost-blog.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\hello-parallax.css",
+      "PackagePath": "staticwebassets\\css\\hello-parallax.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\hero.css",
+      "PackagePath": "staticwebassets\\css\\hero.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\inbox.css",
+      "PackagePath": "staticwebassets\\css\\inbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\instaAlbum.css",
+      "PackagePath": "staticwebassets\\css\\instaAlbum.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\kanban.css",
+      "PackagePath": "staticwebassets\\css\\kanban.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\landing.css",
+      "PackagePath": "staticwebassets\\css\\landing.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\neumorphic-login.css",
+      "PackagePath": "staticwebassets\\css\\neumorphic-login.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\personal.css",
+      "PackagePath": "staticwebassets\\css\\personal.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\prism.css",
+      "PackagePath": "staticwebassets\\css\\prism.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\showcase.css",
+      "PackagePath": "staticwebassets\\css\\showcase.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\tabs.css",
+      "PackagePath": "staticwebassets\\css\\tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\csss\\main.css",
+      "PackagePath": "staticwebassets\\csss\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\csss\\site.css",
+      "PackagePath": "staticwebassets\\csss\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\csss\\util.css",
+      "PackagePath": "staticwebassets\\csss\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\ubuntu\\UFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\ubuntu\\UFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\ubuntu\\Ubuntu-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\ubuntu\\Ubuntu-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\ubuntu\\Ubuntu-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\ubuntu\\Ubuntu-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\fonts\\ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\05-robot-patissier-pizza-1-1-100x100 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\05-robot-patissier-pizza-1-1-100x100 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\05-robot-patissier-pizza-1-1-100x100.jpg",
+      "PackagePath": "staticwebassets\\img\\05-robot-patissier-pizza-1-1-100x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\09-01-qheg0zemrug5v3mqwctf13p73wf4nk0vq9horsntag.png",
+      "PackagePath": "staticwebassets\\img\\09-01-qheg0zemrug5v3mqwctf13p73wf4nk0vq9horsntag.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\1-9.jpg",
+      "PackagePath": "staticwebassets\\img\\1-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\145.jpg",
+      "PackagePath": "staticwebassets\\img\\145.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\ASPIRATEUR-HAPPER-1400W-TC-850.jpg",
+      "PackagePath": "staticwebassets\\img\\ASPIRATEUR-HAPPER-1400W-TC-850.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\ASPIRATEUR-KENWOOD-VC-7050.jpg",
+      "PackagePath": "staticwebassets\\img\\ASPIRATEUR-KENWOOD-VC-7050.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\COCOTTE-AUTOCUISEUR-8-LITRES-SILAMPOS-ALLUMINIUM-6334847.jpg",
+      "PackagePath": "staticwebassets\\img\\COCOTTE-AUTOCUISEUR-8-LITRES-SILAMPOS-ALLUMINIUM-6334847.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\LAVE-LINGE-SAMSUNG-8-KG-BLANC-INVERTER-WW80TA046TE2-2.jpg",
+      "PackagePath": "staticwebassets\\img\\LAVE-LINGE-SAMSUNG-8-KG-BLANC-INVERTER-WW80TA046TE2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\MOBILE-PHO-2.jpg",
+      "PackagePath": "staticwebassets\\img\\MOBILE-PHO-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\REFRIGERATEUR-SAMSUNG-RT-50-GRIS-RT-50-K-5152SP-5152S8.jpg",
+      "PackagePath": "staticwebassets\\img\\REFRIGERATEUR-SAMSUNG-RT-50-GRIS-RT-50-K-5152SP-5152S8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\SECHE-CHEVEUX-BABYLISS-2100W-DIFISEUR-6709E-300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\SECHE-CHEVEUX-BABYLISS-2100W-DIFISEUR-6709E-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\SECHE-CHEVEUX-BABYLISS-2100W-DIFISEUR-6709E.jpg",
+      "PackagePath": "staticwebassets\\img\\SECHE-CHEVEUX-BABYLISS-2100W-DIFISEUR-6709E.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\TVC.png",
+      "PackagePath": "staticwebassets\\img\\TVC.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\baner-1.png",
+      "PackagePath": "staticwebassets\\img\\baner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\banner-fruits.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-fruits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\best-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\best-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\best-product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\best-product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\best-product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\best-product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\featur-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\featur-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\fer.jpg",
+      "PackagePath": "staticwebassets\\img\\fer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\friteuse-sans-huile-fagor-fgaf7r-7l-rouge.jpg",
+      "PackagePath": "staticwebassets\\img\\friteuse-sans-huile-fagor-fgaf7r-7l-rouge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\fruite-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\fruite-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\fruite-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\fruite-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\fruite-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\fruite-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\img\\images (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\images (2).jpeg",
+      "PackagePath": "staticwebassets\\img\\images (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\images.jpeg",
+      "PackagePath": "staticwebassets\\img\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\signup.png",
+      "PackagePath": "staticwebassets\\img\\signup.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\single-item.jpg",
+      "PackagePath": "staticwebassets\\img\\single-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\sm-5042-lm_3.jpg",
+      "PackagePath": "staticwebassets\\img\\sm-5042-lm_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\tv-tcl-40-smart-android-s5400a-full-hd15.jpg",
+      "PackagePath": "staticwebassets\\img\\tv-tcl-40-smart-android-s5400a-full-hd15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\téléchargement.jpeg",
+      "PackagePath": "staticwebassets\\img\\téléchargement.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\vegetable-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\vegetable-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\vegetable-item-3.png",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\vegetable-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\vegetable-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\img\\vegetable-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\js\\app-page.js",
+      "PackagePath": "staticwebassets\\js\\app-page.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\js\\bulma.js",
+      "PackagePath": "staticwebassets\\js\\bulma.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\js\\cardsData.js",
+      "PackagePath": "staticwebassets\\js\\cardsData.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\js\\kanban-switch.js",
+      "PackagePath": "staticwebassets\\js\\kanban-switch.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\js\\kanban.js",
+      "PackagePath": "staticwebassets\\js\\kanban.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\js\\showcase.js",
+      "PackagePath": "staticwebassets\\js\\showcase.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\js\\wild.js",
+      "PackagePath": "staticwebassets\\js\\wild.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\jss\\main.js",
+      "PackagePath": "staticwebassets\\jss\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\jss\\site.js",
+      "PackagePath": "staticwebassets\\jss\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\libb\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\libb\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\libb\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\libb\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\libb\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\libb\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\libb\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\libb\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\libb\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\libb\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\libb\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\libb\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\libb\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\libb\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\libb\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\template\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\css\\style.css",
+      "PackagePath": "staticwebassets\\template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\baner-1.png",
+      "PackagePath": "staticwebassets\\template\\img\\baner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\banner-fruits.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\banner-fruits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\best-product-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\best-product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\best-product-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\best-product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\best-product-3.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\best-product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\best-product-4.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\best-product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\best-product-5.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\best-product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\best-product-6.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\best-product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\featur-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\featur-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\featur-3.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\featur-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\fruite-item-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\fruite-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\fruite-item-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\fruite-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\fruite-item-3.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\fruite-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\fruite-item-4.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\fruite-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\fruite-item-5.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\fruite-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\fruite-item-6.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\fruite-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\template\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\payment.png",
+      "PackagePath": "staticwebassets\\template\\img\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\single-item.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\single-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\vegetable-item-1.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vegetable-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\vegetable-item-2.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vegetable-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\vegetable-item-3.png",
+      "PackagePath": "staticwebassets\\template\\img\\vegetable-item-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\vegetable-item-4.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vegetable-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\vegetable-item-5.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vegetable-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\img\\vegetable-item-6.jpg",
+      "PackagePath": "staticwebassets\\template\\img\\vegetable-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\js\\main.js",
+      "PackagePath": "staticwebassets\\template\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\template\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\template\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\template\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\template\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\template\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\template\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\template\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\template\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\template\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\template\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\template\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ameni Trigui\\Downloads\\projet csharp backup\\Admin\\wwwroot\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Admin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Admin.props",
+      "PackagePath": "build\\Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Admin.props",
+      "PackagePath": "buildMultiTargeting\\Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Admin.props",
+      "PackagePath": "buildTransitive\\Admin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
